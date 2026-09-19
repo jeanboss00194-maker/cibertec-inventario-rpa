@@ -1,0 +1,1894 @@
+codigo_activo_case,cantidad_esperada,cantidad_encontrada,estado_reportado,asistente,sede_reportada
+CASE-AQP-00007,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00009,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00010,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00020,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00028,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00037,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00042,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00051,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00068,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00072,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00080,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00086,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00098,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00112,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00116,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00145,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00147,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00153,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00155,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00160,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00165,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00171,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00185,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00196,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00199,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00212,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00001,1,0,Faltante,Diego Alania Salazar,Arequipa
+CASE-AQP-00002,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00013,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00029,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00035,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00038,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00039,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00043,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00048,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00049,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00056,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00059,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00067,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00069,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00071,1,1,Inoperativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00082,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00087,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00096,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00101,1,1,Inoperativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00104,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00109,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00115,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00124,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00134,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00139,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00144,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00159,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00173,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00174,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00192,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00193,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00215,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00216,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00003,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00004,1,0,Faltante,Diego Alania Salazar,Arequipa
+CASE-AQP-00011,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00018,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00026,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00031,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00045,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00061,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00074,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00085,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00089,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00094,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00095,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00102,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00105,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00114,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00125,1,0,Faltante,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00129,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00133,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00136,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00156,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00166,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00194,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00195,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00203,1,0,Faltante,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00208,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00213,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00214,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00218,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00220,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00221,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00222,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00008,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00019,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00024,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00036,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00046,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00062,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00063,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00064,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00070,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00075,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00077,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00084,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00090,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00092,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00099,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00106,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00122,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00137,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00143,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00148,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00161,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00169,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00172,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00177,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00178,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00181,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00182,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00183,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00184,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00188,1,0,Faltante,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00189,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00190,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00200,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00217,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00219,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00005,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00014,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00017,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00022,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00030,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00034,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00044,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00065,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00073,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00078,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00083,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00097,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00100,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00108,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00110,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00111,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00118,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00123,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00126,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00128,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00131,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00132,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00140,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00141,1,1,Inoperativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00142,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00149,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00150,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00158,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00168,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00175,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00176,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00187,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00006,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00012,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00016,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00023,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00025,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00027,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00033,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00041,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00054,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00055,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00057,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00058,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00060,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00079,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00088,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00091,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00093,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00107,1,1,Inoperativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00117,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00119,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00120,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00121,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00127,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00146,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00151,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00152,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00162,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00163,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00164,1,1,Inoperativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00186,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00197,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00204,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00205,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00207,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00210,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00015,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00021,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00032,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00040,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00047,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00050,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00052,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00053,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00066,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00076,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00081,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00103,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00113,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00130,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00135,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00138,1,1,Inoperativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00154,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00157,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00167,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00170,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00179,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00180,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00191,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00198,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00201,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00202,1,1,Operativo,Naomi Bendezú Castro,Arequipa
+CASE-AQP-00206,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00209,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-AQP-00211,1,1,Operativo,Diego Alania Salazar,Arequipa
+CASE-BRE-00235,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00245,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00252,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00266,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00269,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00277,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00285,1,1,Inoperativo,Marco Sifuentes León,Breña
+CASE-BRE-00288,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00290,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00291,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00297,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00298,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00300,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00315,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00332,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00339,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00341,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00345,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00359,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00362,1,1,Inoperativo,Renzo Huamán Torres,Breña
+CASE-BRE-00363,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00369,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00376,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00378,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00382,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00388,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00392,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00395,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00398,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00405,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00409,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00414,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00422,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00433,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00434,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00461,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00472,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00486,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00226,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00246,1,0,Faltante,Renzo Huamán Torres,Breña
+CASE-BRE-00254,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00260,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00265,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00299,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00302,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00338,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00356,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00366,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00375,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00383,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00389,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00396,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00412,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00419,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00424,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00426,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00427,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00441,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00448,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00449,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00453,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00475,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00480,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00484,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00492,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00227,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00229,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00272,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00275,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00280,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00282,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00286,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00287,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00293,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00296,1,0,Faltante,Marco Sifuentes León,Breña
+CASE-BRE-00301,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00321,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00334,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00350,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00374,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00380,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00402,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00408,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00411,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00430,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00435,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00440,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00443,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00450,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00460,1,0,Faltante,Marco Sifuentes León,Breña
+CASE-BRE-00468,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00469,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00473,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00479,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00482,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00225,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00242,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00248,1,0,Faltante,Renzo Huamán Torres,Breña
+CASE-BRE-00255,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00263,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00274,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00294,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00308,1,1,Inoperativo,Renzo Huamán Torres,Breña
+CASE-BRE-00309,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00319,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00327,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00377,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00385,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00391,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00417,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00423,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00429,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00431,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00446,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00447,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00456,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00459,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00463,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00478,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00489,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00491,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00236,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00257,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00258,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00262,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00279,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00289,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00295,1,1,Inoperativo,Marco Sifuentes León,Breña
+CASE-BRE-00323,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00330,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00340,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00370,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00401,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00406,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00410,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00413,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00436,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00439,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00462,1,0,Faltante,Renzo Huamán Torres,Breña
+CASE-BRE-00481,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00487,1,0,Faltante,Renzo Huamán Torres,Breña
+CASE-BRE-00493,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00223,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00234,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00238,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00239,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00240,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00251,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00261,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00281,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00303,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00305,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00310,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00312,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00314,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00317,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00320,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00322,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00325,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00326,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00328,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00333,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00353,1,1,Inoperativo,Renzo Huamán Torres,Breña
+CASE-BRE-00354,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00357,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00358,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00364,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00381,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00386,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00415,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00418,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00425,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00442,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00467,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00471,1,1,Inoperativo,Renzo Huamán Torres,Breña
+CASE-BRE-00476,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00228,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00232,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00241,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00249,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00256,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00278,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00304,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00311,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00324,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00331,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00335,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00343,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00346,1,1,Inoperativo,Marco Sifuentes León,Breña
+CASE-BRE-00347,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00348,1,0,Faltante,Renzo Huamán Torres,Breña
+CASE-BRE-00352,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00355,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00403,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00404,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00452,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00454,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00466,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00470,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00474,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00490,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00244,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00250,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00264,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00270,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00271,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00273,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00276,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00284,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00306,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00307,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00313,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00316,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00329,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00337,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00342,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00344,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00351,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00361,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00367,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00372,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00384,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00393,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00400,1,0,Faltante,Renzo Huamán Torres,Breña
+CASE-BRE-00428,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00437,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00438,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00457,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00458,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00464,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00483,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00494,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00224,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00233,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00243,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00247,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00259,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00292,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00336,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00368,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00373,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00379,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00387,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00397,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00399,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00407,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00416,1,1,Inoperativo,Renzo Huamán Torres,Breña
+CASE-BRE-00421,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00444,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00445,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00451,1,0,Faltante,Marco Sifuentes León,Breña
+CASE-BRE-00465,1,0,Faltante,Marco Sifuentes León,Breña
+CASE-BRE-00485,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00230,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00231,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00237,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00253,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00267,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00268,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00283,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00318,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00349,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00360,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00365,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00371,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00390,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00394,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00420,1,0,Faltante,Marco Sifuentes León,Breña
+CASE-BRE-00432,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00455,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-BRE-00477,1,1,Operativo,Marco Sifuentes León,Breña
+CASE-BRE-00488,1,1,Operativo,Renzo Huamán Torres,Breña
+CASE-CAL-00495,1,1,Operativo,Bruno Cárdenas Ruiz,Sede Bellavista
+CASE-CAL-00507,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00508,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00515,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00521,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00522,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00524,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00526,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00533,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00537,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00538,1,1,Operativo,Josué Mamani Chura,Sede Bellavista
+CASE-CAL-00558,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00562,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00569,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00576,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00579,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00583,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00588,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00596,1,1,Inoperativo,Bruno Cárdenas Ruiz,Sede Bellavista
+CASE-CAL-00598,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00605,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00611,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00612,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00613,1,1,Operativo,Josué Mamani Chura,Sede Bellavista
+CASE-CAL-00617,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00626,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00632,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00641,1,1,Operativo,Josué Mamani Chura,Sede Bellavista
+CASE-CAL-00648,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00651,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00658,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00667,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00672,1,1,Operativo,Bruno Cárdenas Ruiz,Sede Bellavista
+CASE-CAL-00675,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00695,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00497,1,1,Operativo,Josué Mamani Chura,Sede Bellavista
+CASE-CAL-00499,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00523,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00542,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00545,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00546,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00549,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00553,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00571,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00586,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00599,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00602,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00607,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00621,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00623,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00624,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00628,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00630,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00635,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00650,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00659,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00666,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00668,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00669,1,1,Operativo,Bruno Cárdenas Ruiz,Sede Bellavista
+CASE-CAL-00673,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00684,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00689,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00696,1,1,Operativo,Josué Mamani Chura,Sede Bellavista
+CASE-CAL-00496,1,1,Inoperativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00504,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00506,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00520,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00527,1,1,Inoperativo,Josué Mamani Chura,Callao
+CASE-CAL-00529,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00531,1,1,Operativo,Bruno Cárdenas Ruiz,Sede Bellavista
+CASE-CAL-00532,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00536,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00557,1,1,Inoperativo,Josué Mamani Chura,Callao
+CASE-CAL-00560,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00570,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00590,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00609,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00610,1,1,Operativo,Josué Mamani Chura,Sede Bellavista
+CASE-CAL-00619,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00622,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00643,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00644,1,1,Operativo,Bruno Cárdenas Ruiz,Sede Bellavista
+CASE-CAL-00646,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00647,1,1,Operativo,Bruno Cárdenas Ruiz,Sede Bellavista
+CASE-CAL-00657,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00663,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00670,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00671,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00677,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00678,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00690,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00698,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00498,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00500,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00501,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00503,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00509,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00517,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00530,1,0,Faltante,Josué Mamani Chura,Sede Bellavista
+CASE-CAL-00535,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00548,1,1,Operativo,Bruno Cárdenas Ruiz,Sede Bellavista
+CASE-CAL-00555,1,1,Operativo,Bruno Cárdenas Ruiz,Sede Bellavista
+CASE-CAL-00567,1,1,Operativo,Bruno Cárdenas Ruiz,Sede Bellavista
+CASE-CAL-00577,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00578,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00580,1,1,Operativo,Josué Mamani Chura,Sede Bellavista
+CASE-CAL-00582,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00603,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00604,1,1,Operativo,Josué Mamani Chura,Sede Bellavista
+CASE-CAL-00614,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00615,1,0,Faltante,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00629,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00637,1,1,Operativo,Josué Mamani Chura,Sede Bellavista
+CASE-CAL-00638,1,0,Faltante,Josué Mamani Chura,Callao
+CASE-CAL-00642,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00645,1,1,Operativo,Bruno Cárdenas Ruiz,Sede Bellavista
+CASE-CAL-00653,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00655,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00661,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00662,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00665,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00679,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00686,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00688,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00691,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00512,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00513,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00528,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00534,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00540,1,1,Operativo,Josué Mamani Chura,Sede Bellavista
+CASE-CAL-00547,1,1,Operativo,Josué Mamani Chura,Sede Bellavista
+CASE-CAL-00550,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00559,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00561,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00568,1,1,Operativo,Josué Mamani Chura,Sede Bellavista
+CASE-CAL-00584,1,1,Operativo,Bruno Cárdenas Ruiz,Sede Bellavista
+CASE-CAL-00587,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00589,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00595,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00608,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00627,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00636,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00674,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00681,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00692,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00694,1,0,Faltante,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00697,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00502,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00505,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00511,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00516,1,1,Inoperativo,Josué Mamani Chura,Callao
+CASE-CAL-00519,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00525,1,1,Operativo,Bruno Cárdenas Ruiz,Sede Bellavista
+CASE-CAL-00541,1,1,Operativo,Josué Mamani Chura,Sede Bellavista
+CASE-CAL-00543,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00552,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00573,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00574,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00581,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00591,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00616,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00618,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00625,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00633,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00634,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00649,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00652,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00654,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00660,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00664,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00683,1,1,Operativo,Josué Mamani Chura,Sede Bellavista
+CASE-CAL-00693,1,1,Operativo,Bruno Cárdenas Ruiz,Sede Bellavista
+CASE-CAL-00700,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00510,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00514,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00518,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00539,1,1,Operativo,Bruno Cárdenas Ruiz,Sede Bellavista
+CASE-CAL-00544,1,1,Operativo,Josué Mamani Chura,Sede Bellavista
+CASE-CAL-00551,1,0,Faltante,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00554,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00556,1,1,Operativo,Bruno Cárdenas Ruiz,Sede Bellavista
+CASE-CAL-00563,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00564,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00565,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00566,1,1,Operativo,Bruno Cárdenas Ruiz,Sede Bellavista
+CASE-CAL-00572,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00575,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00585,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00592,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00593,1,1,Operativo,Josué Mamani Chura,Sede Bellavista
+CASE-CAL-00594,1,1,Operativo,Bruno Cárdenas Ruiz,Sede Bellavista
+CASE-CAL-00597,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00600,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00601,1,1,Operativo,Josué Mamani Chura,Sede Bellavista
+CASE-CAL-00606,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00620,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00631,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00639,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00640,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-CAL-00656,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00676,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00680,1,0,Faltante,Josué Mamani Chura,Sede Bellavista
+CASE-CAL-00682,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00685,1,1,Operativo,Josué Mamani Chura,Sede Bellavista
+CASE-CAL-00687,1,1,Operativo,Bruno Cárdenas Ruiz,Callao
+CASE-CAL-00699,1,1,Operativo,Josué Mamani Chura,Callao
+CASE-IND-00737,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00772,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00834,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00841,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00862,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00883,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00888,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00906,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00910,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00912,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00915,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00973,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-00985,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01005,1,1,Inoperativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01023,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01049,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01053,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01065,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-01066,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01075,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01083,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00703,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00705,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00708,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00714,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00741,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00761,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00793,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00816,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00844,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-00874,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00919,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00923,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01027,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01056,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01095,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00767,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00802,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00803,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00890,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00918,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00983,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00984,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-00987,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01012,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01028,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01038,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01060,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01080,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00706,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00721,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00729,1,0,Faltante,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00740,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00756,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00765,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00783,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00784,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00818,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00831,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-00856,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-00875,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00900,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00904,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00913,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00932,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00940,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00955,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00968,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00981,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00989,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00993,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01000,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01009,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-01010,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01031,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00709,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00726,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00745,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00764,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00766,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00769,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00788,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00810,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-00821,1,0,Faltante,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00828,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00905,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00917,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00920,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00957,1,0,Faltante,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00960,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00964,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00992,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-01025,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01032,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01042,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01057,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01091,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00762,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00795,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00852,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00897,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00922,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00958,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00965,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00974,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00996,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01007,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01022,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01030,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01043,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01059,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01079,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01081,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01090,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-01097,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00731,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00777,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00787,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00791,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00820,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00829,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00843,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-00848,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-00887,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00891,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00944,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00945,1,1,Inoperativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-00947,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-00948,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00978,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00994,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01020,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01024,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01055,1,1,Inoperativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01061,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01062,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01064,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01072,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01074,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01088,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00797,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-00826,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00827,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00838,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00846,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-00858,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00861,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-00869,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00871,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00949,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01016,1,0,Faltante,Andrea Ochoa Rivas,Independencia
+CASE-IND-01017,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-01035,1,1,Inoperativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01048,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-00707,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00771,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00789,1,1,Inoperativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-00792,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00799,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00809,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00822,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-00824,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00849,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-00851,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00859,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00864,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00878,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00896,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-00934,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00938,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00942,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00946,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00966,1,1,Inoperativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00988,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00995,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01011,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-01013,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01078,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00704,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00724,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-00748,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00757,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00770,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00776,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00832,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00854,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00868,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00872,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00884,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00893,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-00899,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-00976,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00997,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01006,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-01082,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-00701,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00720,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00781,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00801,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00839,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00870,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00877,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00889,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00907,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-00908,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00928,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00980,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-00991,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00999,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-01018,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01037,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01068,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-01085,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01086,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01089,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00716,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00723,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-00768,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00778,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-00794,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00804,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00814,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00835,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00837,1,0,Faltante,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00916,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00926,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01001,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01014,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01015,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01039,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-01051,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01069,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00710,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00712,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00713,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00718,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00719,1,1,Inoperativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-00750,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00796,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00813,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00836,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00842,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00847,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00866,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00867,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00902,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00951,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00952,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00963,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00971,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00986,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01002,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01036,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01040,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01045,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01076,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00711,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-00715,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00732,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00743,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00780,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00807,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00812,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00823,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00855,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00959,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00975,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00979,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01008,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-01047,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01058,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00730,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-00747,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00749,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00751,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00752,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00811,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00830,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00833,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00845,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00857,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-00863,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00876,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00882,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00924,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00941,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-00969,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00970,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01034,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01101,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00727,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-00739,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00746,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00754,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00759,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00817,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00865,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00929,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-00935,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00967,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00972,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00998,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-01004,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01071,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01077,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01093,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-01096,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00725,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00735,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00774,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00779,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00853,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00880,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00892,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00898,1,0,Faltante,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-00901,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00903,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00930,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-00931,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00936,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00937,1,0,Faltante,Andrea Ochoa Rivas,Independencia
+CASE-IND-00977,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01003,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01100,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-00702,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00717,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00808,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00819,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00921,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-00927,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00953,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00954,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01054,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01073,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-01103,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00733,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00736,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00760,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00773,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00775,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00805,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-00840,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00860,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00873,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00879,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-00894,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00895,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00909,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-01026,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01029,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01092,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01098,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00728,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00742,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00758,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00763,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00782,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00786,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00815,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00850,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00881,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00885,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00911,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00925,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-00943,1,1,Operativo,Jhonatan Quispe Farfán,Sede Norte
+CASE-IND-00950,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00982,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01033,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-01041,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01046,1,0,Faltante,Andrea Ochoa Rivas,Independencia
+CASE-IND-01067,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01087,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00722,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00734,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00738,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-00753,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00785,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00800,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00825,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00933,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00962,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01021,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01044,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01052,1,1,Operativo,Andrea Ochoa Rivas,Sede Norte
+CASE-IND-01070,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01084,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01099,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00744,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00755,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00790,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00798,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00806,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00886,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00914,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00939,1,1,Inoperativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00956,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-00961,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-00990,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01019,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01050,1,1,Operativo,Andrea Ochoa Rivas,Independencia
+CASE-IND-01063,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01094,1,1,Operativo,Jhonatan Quispe Farfán,Independencia
+CASE-IND-01102,1,0,Faltante,Jhonatan Quispe Farfán,Independencia
+CASE-LC-01113,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01118,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01125,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01130,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01166,1,0,Faltante,Katherine Villar Ponce,Lima Centro
+CASE-LC-01180,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01201,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01209,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01225,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01296,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01342,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01343,1,1,Inoperativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01344,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01358,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01373,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01448,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01468,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01479,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01503,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01511,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01518,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01107,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01109,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01153,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01211,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01213,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01214,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01221,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01345,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01374,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01380,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01386,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01393,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01407,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01415,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01426,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01432,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01446,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01456,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01494,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01121,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01139,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01157,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01167,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01176,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01220,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01270,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01273,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01280,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01290,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01292,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01329,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01376,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01392,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01421,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01436,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01452,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01458,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01463,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01496,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01516,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01183,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01184,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01189,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01197,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01238,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01275,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01313,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01327,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01335,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01337,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01346,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01364,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01428,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01447,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01465,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01475,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01495,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01514,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01519,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01116,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01179,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01228,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01236,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01259,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01295,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01316,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01321,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01363,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01403,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01404,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01409,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01460,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01461,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01483,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01499,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01124,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01185,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01190,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01195,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01210,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01218,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01254,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01272,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01322,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01341,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01347,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01357,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01434,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01443,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01449,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01122,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01181,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01187,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01215,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01219,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01223,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01262,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01307,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01333,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01367,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01402,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01417,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01437,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01438,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01481,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01486,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01507,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01508,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01517,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01154,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01172,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01177,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01216,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01240,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01242,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01265,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01315,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01336,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01356,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01391,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01397,1,0,Faltante,Valeria Rosales Injante,Lima Centro
+CASE-LC-01413,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01416,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01441,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01445,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01457,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01110,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01129,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01132,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01170,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01217,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01237,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01241,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01267,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01269,1,0,Faltante,Valeria Rosales Injante,Lima Centro
+CASE-LC-01318,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01348,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01378,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01444,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01455,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01462,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01128,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01137,1,0,Faltante,Katherine Villar Ponce,Lima Centro
+CASE-LC-01142,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01171,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01204,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01233,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01253,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01255,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01302,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01339,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01369,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01377,1,1,Inoperativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01395,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01419,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01459,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01191,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01212,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01235,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01250,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01252,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01256,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01324,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01389,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01414,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01442,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01453,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01473,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01126,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01159,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01175,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01199,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01239,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01249,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01278,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01291,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01334,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01352,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01353,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01366,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01372,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01430,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01450,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01467,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01131,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01152,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01162,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01163,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01168,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01226,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01246,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01277,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01283,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01312,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01320,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01383,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01501,1,1,Inoperativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01502,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01117,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01140,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01232,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01243,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01264,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01268,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01279,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01288,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01314,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01328,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01332,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01371,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01379,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01412,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01425,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01435,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01439,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01500,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01505,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01111,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01143,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01169,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01231,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01258,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01281,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01286,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01299,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01306,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01308,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01311,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01326,1,1,Inoperativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01338,1,0,Faltante,Katherine Villar Ponce,Lima Centro
+CASE-LC-01351,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01368,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01427,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01476,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01509,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01515,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01521,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01123,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01135,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01151,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01173,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01186,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01193,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01248,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01300,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01323,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01325,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01330,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01349,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01410,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01411,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01420,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01429,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01454,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01506,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01106,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01112,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01133,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01141,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01158,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01174,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01202,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01289,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01309,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01317,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01350,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01400,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01401,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01405,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01474,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01487,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01489,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01493,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01498,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01146,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01147,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01178,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01198,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01206,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01222,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01245,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01276,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01285,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01293,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01310,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01319,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01384,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01394,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01422,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01423,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01440,1,1,Inoperativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01471,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01472,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01480,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01482,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01484,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01138,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01188,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01207,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01260,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01304,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01331,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01354,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01370,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01387,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01390,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01398,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01399,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01466,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01470,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01477,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01488,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01510,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01136,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01145,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01149,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01155,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01208,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01234,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01257,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01263,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01271,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01274,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01282,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01297,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01359,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01385,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01396,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01418,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01478,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01108,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01114,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01115,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01144,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01148,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01194,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01227,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01229,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01251,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01261,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01360,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01433,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01490,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01497,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01120,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01156,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01165,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01192,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01196,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01203,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01266,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01287,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01301,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01305,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01340,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01375,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01382,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01408,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01424,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01104,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01127,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01160,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01200,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01284,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01294,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01303,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01355,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01361,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01362,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01388,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01406,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01431,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01464,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01492,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01512,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01520,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01105,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01119,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01134,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01150,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01161,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01164,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01182,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01205,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01224,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01230,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01244,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01247,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01298,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01365,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01381,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01451,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01469,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01485,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01491,1,1,Operativo,Katherine Villar Ponce,Lima Centro
+CASE-LC-01504,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-LC-01513,1,1,Operativo,Valeria Rosales Injante,Lima Centro
+CASE-SJL-01526,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01575,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01578,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01604,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01607,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01608,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01612,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01614,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01615,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01638,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01648,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01659,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01667,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01676,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01681,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01689,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01713,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01527,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01528,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01538,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01542,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01549,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01557,1,1,Inoperativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01561,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01572,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01574,1,0,Faltante,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01577,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01581,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01592,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01603,1,0,Faltante,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01632,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01653,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01662,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01669,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01673,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01678,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01697,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01702,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01708,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01712,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01545,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01546,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01565,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01597,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01619,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01623,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01627,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01628,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01641,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01655,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01656,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01668,1,0,Faltante,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01695,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01530,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01535,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01566,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01601,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01609,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01622,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01637,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01639,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01642,1,0,Faltante,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01645,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01649,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01665,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01672,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01711,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01715,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01718,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01548,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01559,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01560,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01585,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01618,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01631,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01650,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01658,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01660,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01666,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01680,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01696,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01709,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01525,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01531,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01533,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01547,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01552,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01553,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01564,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01570,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01586,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01588,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01590,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01594,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01595,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01598,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01602,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01625,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01654,1,1,Inoperativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01664,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01674,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01691,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01707,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01710,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01522,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01554,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01556,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01562,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01569,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01593,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01596,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01600,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01606,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01613,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01617,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01620,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01630,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01644,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01646,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01651,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01657,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01670,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01671,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01677,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01685,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01690,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01700,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01704,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01719,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01532,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01536,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01537,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01540,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01550,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01558,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01567,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01568,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01571,1,1,Inoperativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01573,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01580,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01584,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01610,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01616,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01629,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01640,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01647,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01686,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01698,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01703,1,1,Inoperativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01705,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01717,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01524,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01551,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01555,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01576,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01583,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01589,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01599,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01621,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01626,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01643,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01663,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01682,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01684,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01687,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01688,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01699,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01701,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01716,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01523,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01539,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01587,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01611,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01624,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01635,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01636,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01692,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01706,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01529,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01534,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01541,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01543,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01544,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01563,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01579,1,0,Faltante,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01582,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01591,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01605,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01633,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01634,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01652,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01661,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01675,1,1,Inoperativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01679,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01683,1,1,Operativo,Cristian Del Águila Vega,San Juan de Lurigancho
+CASE-SJL-01693,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01694,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-SJL-01714,1,1,Operativo,Estefanía Guzmán Pinto,San Juan de Lurigancho
+CASE-TRU-01726,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01736,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01746,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01761,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01763,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01764,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01775,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01787,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01829,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01843,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01879,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01883,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01748,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01756,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01771,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01774,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01785,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01789,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01796,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01797,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01798,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01802,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01808,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01828,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01836,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01837,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01851,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01863,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01864,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01874,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01877,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01893,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01721,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01725,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01744,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01755,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01758,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01762,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01768,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01776,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01786,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01792,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01807,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01822,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01840,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01842,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01845,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01849,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01865,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01881,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01885,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01749,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01759,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01766,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01823,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01853,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01866,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01868,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01870,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01875,1,1,Inoperativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01878,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01888,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01722,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01737,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01779,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01805,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01830,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01841,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01854,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01869,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01871,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01728,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01731,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01734,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01735,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01760,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01770,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01773,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01784,1,1,Inoperativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01821,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01833,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01846,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01858,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01867,1,1,Inoperativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01880,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01882,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01889,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01727,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01739,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01741,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01753,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01777,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01813,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01815,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01816,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01827,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01860,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01891,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01723,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01745,1,0,Faltante,Fiorella Campos Medina,Trujillo
+CASE-TRU-01751,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01769,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01772,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01778,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01791,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01793,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01799,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01800,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01801,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01811,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01817,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01820,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01832,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01844,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01850,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01892,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01733,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01747,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01752,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01765,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01782,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01804,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01809,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01814,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01819,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01838,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01839,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01855,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01861,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01886,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01887,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01720,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01724,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01729,1,1,Inoperativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01730,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01732,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01781,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01790,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01812,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01818,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01824,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01826,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01831,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01834,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01852,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01856,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01859,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01862,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01738,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01743,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01750,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01757,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01803,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01810,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01847,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01872,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01890,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01740,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01742,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01754,1,1,Inoperativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01767,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01780,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01783,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01788,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01794,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01795,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01806,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01825,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01835,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01848,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01857,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01873,1,1,Operativo,Fiorella Campos Medina,Trujillo
+CASE-TRU-01876,1,1,Operativo,Milagros Paredes Soto,Trujillo
+CASE-TRU-01884,1,1,Operativo,Fiorella Campos Medina,Trujillo
